@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am Bhavnoor Singh, a final year undergraduate at Dept of Computer Science and Engineering at IIT Bombay. Hailing from Nakodar (Gate of Goodness), a small town in the Doaba Reagion of Punjab, our jadi pind (ancestral village) is Jahangir, now in Tarantaran. For those not aware, it is a common in Punjab, espcially in Kamboj community to identity oneself and others through ancestral tracts. I enjoy travelling and experiencing different cultures and have sustained my way to Germany, Italy, Singapore, Canada and US. Nevertheless I enjoy the rich diversity of my own nation. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Just like cultures, I like interdisiplinary research. Right now I am working with Prof. William Gornall at Sauder School of Business, UBC on Exploring arbitrage opportunities in crypto futures. At IITB, I have also been a part of Devcom - The Developers Comunity of IITB and 2 Maharastra Engineering Regiment</p>
 
 <h2>Skills</h2>
 
