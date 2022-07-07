@@ -1,7 +1,7 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Video Stabilization using Motion Estimation"
 layout: post
-date: 2016-01-23 22:10
+date: May 2021 - Nov 2021
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
@@ -9,26 +9,17 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: johndoe
+author: Prof. Ajit Rajwade, PhD Jerin Geo James 
 externalLink: false
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+In summer 2021, I worked with [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/) of IIT Bombay on developing a video stabilization pipeline by making use of wrap fields and optical flows. The summer project was carried forward as an RnD course project.
 
 ---
+Results:
+![Original video](https://github.com/bhavnoormarok/me/blob/main/assets/images/original.mp4)
+![stabilized video](https://github.com/bhavnoormarok/me/blob/main/assets/images/processed.mp4)
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+If you need the code for this project, feel free to contact me. 
