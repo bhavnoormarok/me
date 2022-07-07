@@ -19,13 +19,13 @@ In summer 2021, I worked with [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~a
 
 ---
 Results:
+
 Original Video
+
 ![Screenshot](https://github.com/bhavnoormarok/me/blob/main/assets/images/original.gif)
 
-
-
-
 Stabilized video
+
 ![Screenshot](https://github.com/bhavnoormarok/me/blob/main/assets/images/stabilized.gif)
 
 
