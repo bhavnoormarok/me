@@ -19,7 +19,12 @@ In summer 2021, I worked with [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~a
 
 ---
 Results:
-![Original video](https://github.com/bhavnoormarok/me/blob/main/assets/images/original.mp4)
-![stabilized video](https://github.com/bhavnoormarok/me/blob/main/assets/images/processed.mp4)
+Original Video
+https://user-images.githubusercontent.com/62099004/177773730-ee30afa5-73a2-4422-9864-a0e40c47426f.mp4
+
+Stabilized video
+https://user-images.githubusercontent.com/62099004/177773902-4bd20658-0285-444b-afb1-992ccd4650e1.mp4
+
+
 
 If you need the code for this project, feel free to contact me. 
